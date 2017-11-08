@@ -1,0 +1,19 @@
+body{
+    font-size: 16; /*Ejemplo error de sintaxis*/
+    color: #000000;
+}
+
+h1,h2,h3,h4,h5, /*Error de sintaxis*/
+{
+    font-weight: bold;
+    text-align: center;
+    color: #333333;
+}
+
+p{
+    font-size: 1.2em;
+}
+
+code{
+    font-family: "Courier New", Courier, monospace;
+}
