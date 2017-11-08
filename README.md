@@ -8,3 +8,6 @@ Este proyecto es para que los alumnos del curso de Introducción a las Cs. de la
 * `git add` (Ejemplo: git commit -m "Your message about the commit")
 * `git push`
 * `git pull`
+
+## Comandos avanzados de GIT
+* `git checkout -b <my branch name>`
