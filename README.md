@@ -5,6 +5,6 @@ Este proyecto es para que los alumnos del curso de Introducción a las Cs. de la
 ## Comandos básicos de GIT
 * `git status`
 * `git init`
-* `git add`
+* `git add` (Ejemplo: git commit -m "Your message about the commit")
 * `git push`
 * `git pull`
